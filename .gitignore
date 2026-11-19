@@ -1,7 +1,14 @@
-# Raw dataset folder
+# Raw dataset & temp lock files
 Olist_Dataset/
-
-# Temporary lock and backup files
 .~*
 *~
 *.tmp
+
+# Jupyter & Python environment
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+logs/

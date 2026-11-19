@@ -1,0 +1,76 @@
+2026-11-19 12:44:04,649 | WARNING | Retrying (DatabricksRetryPolicy(total=29, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001923C2ECF70>: Failed to resolve 'a8ae7627-918a.cloud.databricks.com' ([Errno 11001] getaddrinfo failed)")': /sql/1.0/warehouses/daaca7b6399f4d57
+2026-11-19 12:44:08,664 | WARNING | Retrying (DatabricksRetryPolicy(total=28, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001923C2ED180>: Failed to resolve 'a8ae7627-918a.cloud.databricks.com' ([Errno 11001] getaddrinfo failed)")': /sql/1.0/warehouses/daaca7b6399f4d57
+2026-11-19 12:44:16,677 | WARNING | Retrying (DatabricksRetryPolicy(total=27, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001923C2ED060>: Failed to resolve 'a8ae7627-918a.cloud.databricks.com' ([Errno 11001] getaddrinfo failed)")': /sql/1.0/warehouses/daaca7b6399f4d57
+2026-11-19 12:44:32,683 | WARNING | Retrying (DatabricksRetryPolicy(total=26, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001923C2EDCC0>: Failed to resolve 'a8ae7627-918a.cloud.databricks.com' ([Errno 11001] getaddrinfo failed)")': /sql/1.0/warehouses/daaca7b6399f4d57
+2026-11-19 12:45:04,708 | WARNING | Retrying (DatabricksRetryPolicy(total=25, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001923C2EDFC0>: Failed to resolve 'a8ae7627-918a.cloud.databricks.com' ([Errno 11001] getaddrinfo failed)")': /sql/1.0/warehouses/daaca7b6399f4d57
+2026-11-19 12:46:04,719 | WARNING | Retrying (DatabricksRetryPolicy(total=24, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001923C2EE2C0>: Failed to resolve 'a8ae7627-918a.cloud.databricks.com' ([Errno 11001] getaddrinfo failed)")': /sql/1.0/warehouses/daaca7b6399f4d57
+2026-11-19 12:47:04,749 | WARNING | Retrying (DatabricksRetryPolicy(total=23, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001923C2EE5C0>: Failed to resolve 'a8ae7627-918a.cloud.databricks.com' ([Errno 11001] getaddrinfo failed)")': /sql/1.0/warehouses/daaca7b6399f4d57
+2026-11-19 12:48:04,789 | WARNING | Retrying (DatabricksRetryPolicy(total=22, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001923C2EE8C0>: Failed to resolve 'a8ae7627-918a.cloud.databricks.com' ([Errno 11001] getaddrinfo failed)")': /sql/1.0/warehouses/daaca7b6399f4d57
+2026-11-19 12:49:04,799 | WARNING | Retrying (DatabricksRetryPolicy(total=21, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001923C2EE9E0>: Failed to resolve 'a8ae7627-918a.cloud.databricks.com' ([Errno 11001] getaddrinfo failed)")': /sql/1.0/warehouses/daaca7b6399f4d57
+2026-11-19 12:50:04,848 | WARNING | Retrying (DatabricksRetryPolicy(total=20, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001923C2EE230>: Failed to resolve 'a8ae7627-918a.cloud.databricks.com' ([Errno 11001] getaddrinfo failed)")': /sql/1.0/warehouses/daaca7b6399f4d57
+2026-11-19 12:51:04,863 | WARNING | Retrying (DatabricksRetryPolicy(total=19, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001923C2EEDA0>: Failed to resolve 'a8ae7627-918a.cloud.databricks.com' ([Errno 11001] getaddrinfo failed)")': /sql/1.0/warehouses/daaca7b6399f4d57
+2026-11-19 12:52:04,877 | WARNING | Retrying (DatabricksRetryPolicy(total=18, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001923C2EEFE0>: Failed to resolve 'a8ae7627-918a.cloud.databricks.com' ([Errno 11001] getaddrinfo failed)")': /sql/1.0/warehouses/daaca7b6399f4d57
+2026-11-19 12:53:04,896 | WARNING | Retrying (DatabricksRetryPolicy(total=17, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001923C2EF370>: Failed to resolve 'a8ae7627-918a.cloud.databricks.com' ([Errno 11001] getaddrinfo failed)")': /sql/1.0/warehouses/daaca7b6399f4d57
+2026-11-19 12:54:04,903 | WARNING | Retrying (DatabricksRetryPolicy(total=16, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001923C2EF670>: Failed to resolve 'a8ae7627-918a.cloud.databricks.com' ([Errno 11001] getaddrinfo failed)")': /sql/1.0/warehouses/daaca7b6399f4d57
+2026-11-19 12:55:04,915 | WARNING | Retrying (DatabricksRetryPolicy(total=15, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001923C2EFD90>: Failed to resolve 'a8ae7627-918a.cloud.databricks.com' ([Errno 11001] getaddrinfo failed)")': /sql/1.0/warehouses/daaca7b6399f4d57
+2026-11-19 12:56:04,931 | WARNING | Retrying (DatabricksRetryPolicy(total=14, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000019241DAC100>: Failed to resolve 'a8ae7627-918a.cloud.databricks.com' ([Errno 11001] getaddrinfo failed)")': /sql/1.0/warehouses/daaca7b6399f4d57
+2026-11-19 12:57:04,944 | WARNING | Retrying (DatabricksRetryPolicy(total=13, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000019241DAC2B0>: Failed to resolve 'a8ae7627-918a.cloud.databricks.com' ([Errno 11001] getaddrinfo failed)")': /sql/1.0/warehouses/daaca7b6399f4d57
+2026-11-19 12:58:04,955 | WARNING | Retrying (DatabricksRetryPolicy(total=12, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000019241DAC0D0>: Failed to resolve 'a8ae7627-918a.cloud.databricks.com' ([Errno 11001] getaddrinfo failed)")': /sql/1.0/warehouses/daaca7b6399f4d57
+2026-11-19 12:58:04,962 | ERROR | ThriftBackend.attempt_request: Exception: Retry request would exceed Retry policy max retry duration of 900.0 seconds
+2026-11-19 12:58:04,963 | INFO | Error during request to server. Retry request would exceed Retry policy max retry duration of 900.0 seconds: {"method": "OpenSession", "session-id": null, "query-id": null, "http-code": null, "error-message": "", "original-exception": "Retry request would exceed Retry policy max retry duration of 900.0 seconds", "no-retry-reason": "non-retryable error", "bounded-retry-delay": null, "attempt": "1/30", "elapsed-seconds": "842.3520727157593/900.0"}
+2026-11-19 12:58:05,369 | ERROR | Pipeline execution failed: Error during request to server. Retry request would exceed Retry policy max retry duration of 900.0 seconds
+Traceback (most recent call last):
+  File "C:\Users\jaivi\Videos\AIDA\Projects\aida-g2-retail-data-platform\ingestion\bronze_loader.py", line 131, in run_pipeline
+    with get_sql_connection() as conn:
+  File "C:\Users\jaivi\Videos\AIDA\Projects\aida-g2-retail-data-platform\ingestion\bronze_loader.py", line 33, in get_sql_connection
+    return sql.connect(
+  File "C:\Users\jaivi\anaconda3\envs\python_new\lib\site-packages\databricks\sql\__init__.py", line 93, in connect
+    return Connection(server_hostname, http_path, access_token, **kwargs)
+  File "C:\Users\jaivi\anaconda3\envs\python_new\lib\site-packages\databricks\sql\client.py", line 457, in __init__
+    raise e
+  File "C:\Users\jaivi\anaconda3\envs\python_new\lib\site-packages\databricks\sql\client.py", line 420, in __init__
+    self.session = self._open_session_with_reyden_fallback(
+  File "C:\Users\jaivi\anaconda3\envs\python_new\lib\site-packages\databricks\sql\client.py", line 621, in _open_session_with_reyden_fallback
+    return build_session(kwargs)
+  File "C:\Users\jaivi\anaconda3\envs\python_new\lib\site-packages\databricks\sql\client.py", line 575, in build_session
+    self.session.open()
+  File "C:\Users\jaivi\anaconda3\envs\python_new\lib\site-packages\databricks\sql\session.py", line 442, in open
+    self._session_id = self.backend.open_session(
+  File "C:\Users\jaivi\anaconda3\envs\python_new\lib\site-packages\databricks\sql\backend\thrift_backend.py", line 642, in open_session
+    response = self.make_request(self._client.OpenSession, open_session_req)
+  File "C:\Users\jaivi\anaconda3\envs\python_new\lib\site-packages\databricks\sql\backend\thrift_backend.py", line 567, in make_request
+    self._handle_request_error(error_info, attempt, elapsed)
+  File "C:\Users\jaivi\anaconda3\envs\python_new\lib\site-packages\databricks\sql\backend\thrift_backend.py", line 385, in _handle_request_error
+    raise network_request_error
+databricks.sql.exc.RequestError: Error during request to server. Retry request would exceed Retry policy max retry duration of 900.0 seconds
+2026-11-19 15:46:42,315 | INFO | Received status code 200 for POST request
+2026-11-19 15:46:42,316 | INFO | HTTP Response with status code 200, message: OK
+2026-11-19 15:46:42,316 | INFO | Successfully opened session 01f1e45a-5388-129e-9ad2-29e680482637
+2026-11-19 15:46:42,776 | INFO | Received status code 200 for GET request
+2026-11-19 15:46:43,514 | INFO | Received status code 200 for POST request
+2026-11-19 15:46:43,515 | INFO | HTTP Response with status code 200, message: OK
+2026-11-19 15:46:43,738 | INFO | Received status code 200 for POST request
+2026-11-19 15:46:43,739 | INFO | HTTP Response with status code 200, message: OK
+2026-11-19 15:46:44,331 | INFO | Received status code 200 for POST request
+2026-11-19 15:46:44,331 | INFO | HTTP Response with status code 200, message: OK
+2026-11-19 15:46:44,339 | INFO | No watermark found. Running INITIAL LOAD (2016-09-04 to 2017-12-31).
+2026-11-19 15:46:59,327 | INFO | Uploaded 45430 records to /Volumes/olist_dev/bronze/raw_landing/orders_batch_2016-09-04_to_2017-12-31.json
+2026-11-19 15:47:04,421 | INFO | Received status code 200 for POST request
+2026-11-19 15:47:04,421 | INFO | HTTP Response with status code 200, message: OK
+2026-11-19 15:47:04,742 | INFO | Received status code 200 for POST request
+2026-11-19 15:47:04,742 | INFO | HTTP Response with status code 200, message: OK
+2026-11-19 15:47:04,827 | INFO | Received status code 200 for POST request
+2026-11-19 15:47:04,828 | INFO | HTTP Response with status code 200, message: OK
+2026-11-19 15:47:04,923 | INFO | Received status code 200 for POST request
+2026-11-19 15:47:04,923 | INFO | HTTP Response with status code 200, message: OK
+2026-11-19 15:47:05,035 | INFO | Received status code 200 for POST request
+2026-11-19 15:47:05,036 | INFO | HTTP Response with status code 200, message: OK
+2026-11-19 15:47:05,709 | INFO | Received status code 200 for POST request
+2026-11-19 15:47:05,709 | INFO | HTTP Response with status code 200, message: OK
+2026-11-19 15:47:06,718 | INFO | Received status code 200 for POST request
+2026-11-19 15:47:06,718 | INFO | HTTP Response with status code 200, message: OK
+2026-11-19 15:47:06,721 | INFO | Merged 45430 records into olist_dev.bronze.orders_raw_json and updated watermark to 2017-12-31.
+2026-11-19 15:47:06,721 | INFO | Closing session 01f1e45a-5388-129e-9ad2-29e680482637
+2026-11-19 15:47:06,800 | INFO | Received status code 200 for POST request
+2026-11-19 15:47:06,800 | INFO | HTTP Response with status code 200, message: OK
+2026-11-19 15:47:06,945 | INFO | Received status code 200 for POST request
