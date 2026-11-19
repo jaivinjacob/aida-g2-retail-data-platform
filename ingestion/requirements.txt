@@ -1,0 +1,5 @@
+databricks-sdk
+databricks-sql-connector
+dbt-databricks
+python-dotenv
+pandas
